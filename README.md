@@ -7,6 +7,8 @@ This version runs with local/open-source AI components:
 - 🌐 Translation: Helsinki-NLP (Hugging Face Transformers)
 - 🔊 Text-to-Speech: gTTS
 
+https://github.com/user-attachments/assets/16327d86-e25f-4b1a-ae48-baa3bfb8330c
+
 ## ✨ Features
 
 - 🎤 Record audio directly from the browser
